@@ -1,0 +1,283 @@
+LR:0.05
+E: 20
+Epoch:1,cost =86.47611
+Epoch:2,cost =6.31819
+Epoch:3,cost =1.81503
+Epoch:4,cost =1.35625
+Epoch:5,cost =0.87080
+Epoch:6,cost =0.60062
+Epoch:7,cost =0.47250
+Epoch:8,cost =0.25166
+Epoch:9,cost =0.20794
+Epoch:10,cost =0.11978
+Epoch:11,cost =0.15817
+Epoch:12,cost =0.12005
+Epoch:13,cost =0.15147
+Epoch:14,cost =0.13343
+Epoch:15,cost =0.09051
+Epoch:16,cost =0.19278
+Epoch:17,cost =0.13796
+Epoch:18,cost =0.08545
+Epoch:19,cost =0.12283
+Epoch:20,cost =0.10102
+Training complete!
+Validation Accuracy:0.914667
+
+LR:0.05
+E:9
+Epoch:1,cost =86.47611
+Epoch:2,cost =6.31819
+Epoch:3,cost =1.81503
+Epoch:4,cost =1.35625
+Epoch:5,cost =0.87080
+Epoch:6,cost =0.60062
+Epoch:7,cost =0.47250
+Epoch:8,cost =0.25166
+Epoch:9,cost =0.20794
+Training complete!
+Validation Accuracy:0.894667
+
+LR:0.01
+E:9
+Epoch:1,cost =46.84101
+Epoch:2,cost =9.08912
+Epoch:3,cost =3.74098
+Epoch:4,cost =3.08309
+Epoch:5,cost =2.36110
+Epoch:6,cost =1.04345
+Epoch:7,cost =0.88056
+Epoch:8,cost =0.69257
+Epoch:9,cost =0.29780
+Training complete!
+Validation Accuracy:0.895333
+
+LR:0.01
+E:10
+Epoch:1,cost =46.84101
+Epoch:2,cost =9.08912
+Epoch:3,cost =3.74098
+Epoch:4,cost =3.08309
+Epoch:5,cost =2.36110
+Epoch:6,cost =1.04345
+Epoch:7,cost =0.88056
+Epoch:8,cost =0.69257
+Epoch:9,cost =0.29780
+Epoch:10,cost =0.48489
+Training complete!
+Validation Accuracy:0.891333
+
+0.05
+18
+128
+Epoch:1,cost =86.47611
+Epoch:2,cost =6.31819
+Epoch:3,cost =1.81503
+Epoch:4,cost =1.35625
+Epoch:5,cost =0.87080
+Epoch:6,cost =0.60062
+Epoch:7,cost =0.47250
+Epoch:8,cost =0.25166
+Epoch:9,cost =0.20794
+Epoch:10,cost =0.11978
+Epoch:11,cost =0.15817
+Epoch:12,cost =0.12005
+Epoch:13,cost =0.15147
+Epoch:14,cost =0.13343
+Epoch:15,cost =0.09051
+Epoch:16,cost =0.19278
+Epoch:17,cost =0.13796
+Epoch:18,cost =0.08545
+Training complete!
+Validation Accuracy:0.913333
+
+0.05
+20
+128
+Epoch:1,cost =86.47611
+Epoch:2,cost =6.31819
+Epoch:3,cost =1.81503
+Epoch:4,cost =1.35625
+Epoch:5,cost =0.87080
+Epoch:6,cost =0.60062
+Epoch:7,cost =0.47250
+Epoch:8,cost =0.25166
+Epoch:9,cost =0.20794
+Epoch:10,cost =0.11978
+Epoch:11,cost =0.15817
+Epoch:12,cost =0.12005
+Epoch:13,cost =0.15147
+Epoch:14,cost =0.13343
+Epoch:15,cost =0.09051
+Epoch:16,cost =0.19278
+Epoch:17,cost =0.13796
+Epoch:18,cost =0.08545
+Epoch:19,cost =0.12283
+Epoch:20,cost =0.10102
+Training complete!
+Validation Accuracy:0.914667
+86.1
+
+0.01
+5
+128
+Epoch:1,cost =46.84101
+Epoch:2,cost =9.08912
+Epoch:3,cost =3.74098
+Epoch:4,cost =3.08309
+Epoch:5,cost =2.36110
+Training complete!
+Validation Accuracy:0.872
+80.0
+
+0.01
+5
+128
+1000
+Epoch:1,cost =55.01900
+Epoch:2,cost =10.20681
+Epoch:3,cost =5.89360
+Epoch:4,cost =3.26046
+Epoch:5,cost =2.41549
+Training complete!
+Validation Accuracy:0.870667
+82.1
+
+0.05
+20
+128
+1000
+Epoch:1,cost =130.39676
+Epoch:2,cost =14.02997
+Epoch:3,cost =4.78871
+Epoch:4,cost =1.84271
+Epoch:5,cost =1.63629
+Epoch:6,cost =0.66904
+Epoch:7,cost =0.66494
+Epoch:8,cost =0.42347
+Epoch:9,cost =0.20546
+Epoch:10,cost =0.34234
+Epoch:11,cost =0.16901
+Epoch:12,cost =0.33171
+Epoch:13,cost =0.33374
+Epoch:14,cost =0.40084
+Epoch:15,cost =0.50167
+Epoch:16,cost =0.28253
+Epoch:17,cost =0.24316
+Epoch:18,cost =0.22625
+Epoch:19,cost =0.22679
+Epoch:20,cost =0.40092
+Training complete!
+Validation Accuracy:0.921333
+86.6
+
+0.5
+20
+128
+1000
+Epoch:1,cost =1115.28609
+Epoch:2,cost =3.43404
+Epoch:3,cost =1.51150
+Epoch:4,cost =1.60320
+Epoch:5,cost =1.43852
+Epoch:6,cost =1.18125
+Epoch:7,cost =1.06504
+Epoch:8,cost =1.09081
+Epoch:9,cost =1.07782
+Epoch:10,cost =0.98077
+Epoch:11,cost =1.00084
+Epoch:12,cost =1.56169
+Epoch:13,cost =1.16892
+Epoch:14,cost =1.07201
+Epoch:15,cost =1.16426
+Epoch:16,cost =1.12289
+Epoch:17,cost =1.57255
+Epoch:18,cost =1.14339
+Epoch:19,cost =1.01531
+Epoch:20,cost =0.97375
+Training complete!
+Validation Accuracy:0.676
+60.7
+
+0.01
+20
+64
+1000
+Epoch:1,cost =41.81777
+Epoch:2,cost =9.18070
+Epoch:3,cost =5.13350
+Epoch:4,cost =3.14062
+Epoch:5,cost =3.50319
+Epoch:6,cost =1.81842
+Epoch:7,cost =1.23015
+Epoch:8,cost =0.81187
+Epoch:9,cost =0.54468
+Epoch:10,cost =0.94601
+Epoch:11,cost =0.61121
+Epoch:12,cost =1.13542
+Epoch:13,cost =0.67880
+Epoch:14,cost =0.76465
+Epoch:15,cost =0.70832
+Epoch:16,cost =0.63347
+Epoch:17,cost =0.74739
+Epoch:18,cost =0.68857
+Epoch:19,cost =0.42272
+Epoch:20,cost =0.41585
+Training complete!
+Validation Accuracy:0.916
+88.1
+
+0.01
+20
+64
+10000
+Epoch:1,cost =274.31653
+Epoch:2,cost =57.66048
+Epoch:3,cost =35.63937
+Epoch:4,cost =23.52071
+Epoch:5,cost =18.26446
+Epoch:6,cost =9.01219
+Epoch:7,cost =16.28234
+Epoch:8,cost =19.03503
+Epoch:9,cost =6.40296
+Epoch:10,cost =15.47263
+Epoch:11,cost =8.70101
+Epoch:12,cost =7.37781
+Epoch:13,cost =5.92544
+Epoch:14,cost =5.63743
+Epoch:15,cost =5.65978
+Epoch:16,cost =3.40190
+Epoch:17,cost =4.66557
+Epoch:18,cost =5.88735
+Epoch:19,cost =4.08232
+Epoch:20,cost =6.48588
+Training complete!
+Validation Accuracy:0.926667
+88.1
+
+0.01
+20
+64
+250
+Epoch:1,cost =25.56996
+Epoch:2,cost =4.87687
+Epoch:3,cost =2.39007
+Epoch:4,cost =1.40857
+Epoch:5,cost =1.10650
+Epoch:6,cost =0.62821
+Epoch:7,cost =0.60143
+Epoch:8,cost =0.36585
+Epoch:9,cost =0.19630
+Epoch:10,cost =0.17566
+Epoch:11,cost =0.09960
+Epoch:12,cost =0.07581
+Epoch:13,cost =0.18407
+Epoch:14,cost =0.05195
+Epoch:15,cost =0.12416
+Epoch:16,cost =0.13844
+Epoch:17,cost =0.10965
+Epoch:18,cost =0.15218
+Epoch:19,cost =0.11561
+Epoch:20,cost =0.08513
+Training complete!
+Validation Accuracy:0.903333
+85.8
